@@ -27,7 +27,7 @@ writing to consolidate, to teach, and to leave something behind for the rest of 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  MAGI SYSTEM // CURRENT FOCUS                                   │
-│  MELCHIOR-1: approved. BALTHASAR-2: approved. CASPAR-3: ...    │
+│  MELCHIOR-1: approved. BALTHASAR-2: approved. CASPAR-3: ...     │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -47,7 +47,7 @@ operator = {
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  GHOST // TOOLS & INTERESTS                                     │
-│  "your ghost whispers to you of things it cannot explain."     │
+│  "your ghost whispers to you of things it cannot explain."      │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -65,7 +65,7 @@ operator = {
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  TRANSMISSION LOG // BLOG                                       │
-│  "no matter where you go, everyone is connected."              │
+│  "no matter where you go, everyone is connected."               │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -78,7 +78,7 @@ not a quick-reference blog. read it like a letter.
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  LAYER 7 // CONTACT                                             │
-│  "the border between the real world and the wired is fading."  │
+│  "the border between the real world and the wired is fading."   │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
