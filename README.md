@@ -1,30 +1,6 @@
-```
-⠀⠀⠀⠀⡌⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠉⠉⢳⠀⠘⠀⠀⠀
-⠀⠀⠀⡸⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀⠈⡆⠀⡇⠀⠀
-⠀⠀⠀⣳⢺⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠁⠀⡇⠀⠀
-⠀⠀⢀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⢰⠀⡇⠀⠀
-⠀⠀⠈⢸⣿⣿⣿⣿⣿⣿⣿⡟⢸⡏⠀⢸⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠇⠀⠀
-⠀⠀⠀⠸⠛⣿⣿⣿⣿⣟⢻⠀⢸⡇⠀⢸⠀⣿⡇⣿⣿⣿⣿⡟⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢀⠀⠀⠀
-⠀⠀⠀⠀⠀⠈⣿⣿⡏⢉⠙⠓⢾⣙⠀⢸⠀⠏⡇⠟⠻⣿⣿⠃⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⡜⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⣿⢻⣷⠙⣿⣦⣄⡉⠁⠈⠀⠀⠇⠤⠴⠿⢶⣤⣀⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⣿⣿⠰⠁⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⢹⠈⢿⡈⠛⠛⠛⠋⠀⠀⠀⠀⠀⠀⠀⠾⣧⣀⠉⠙⠲⢿⣏⣿⣿⣿⣿⣿⣏⡄⣿⣿⡟⡀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠈⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⢿⣿⣿⣷⠖⠀⠈⣿⣿⣿⣿⡿⢋⣾⣿⣿⢧⡇⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣆⠀⠀⠀⠀⡔⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣟⣿⣶⣿⣿⣿⡟⠸⡀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢦⡀⠀⠘⠢⠤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡌⣿⣽⣿⣟⠻⠻⠏⠟⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣆⡀⠀⠀⠄⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⢞⣿⣿⣿⣿⢳⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠤⣼⣏⡗⢄⠀⠀⠀⠀⠀⢀⡠⣤⡤⢔⡫⠔⢻⣿⣿⣿⠃⣸⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⢀⣠⠴⣪⣵⣾⣿⣿⡇⠀⠉⢲⠒⠒⠚⢀⡩⠴⠒⠉⠀⠀⢸⣿⣿⡇⠀⢸⣄⠑⢄⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⣠⢔⣨⣥⣾⣿⣿⣿⣿⣿⣿⠁⣀⣴⣿⣷⠀⠉⠁⠀⠀⠀⠀⠀⠀⣿⣿⣿⠁⠀⡏⠀⠑⢌⠡⡀⠀⠀⠀⠀⠀
-⢀⣴⡟⠋⠁⣴⣿⣿⣿⣿⣿⣿⣿⣧⣾⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⠀⠀⡇⠀⠀⠀⠱⡘⣆⠀⠀⠀⠀
-⢸⣻⣧⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⠀⠀⠀⠀⢀⡴⣻⣿⣿⡇⠀⢸⠀⠀⠀⠀⠀⠈⡧⡑⡄⠀⠀
-⢸⢺⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠑⠒⢐⣶⣿⣿⣿⣿⣿⣀⣠⡿⠀⠀⠀⠀⠀⣸⠁⠈⢜⢄⠀
-⣘⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⣀⣀⡀⣀⣠⠃⠀⠀⠀⠁⢢
-```
-
 <div align="center">
 
-<img src="https://tenor.com/view/serial-experiments-lain-lain-anime-smug-anime-smile-gif-14038034" alt="Lain" />
-
+![lain gif](lain.gif)  
 ```
 // present day. present time. hahahaha.
 ```
@@ -40,11 +16,11 @@
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-> *the wired knows no boundaries. neither do I.*
+> *"the wired knows no boundaries. neither do I."*
 
 amateur british red teamer living in the space between the machine and the real.  
-currently diving deep into **windows maldev**, **active directory**, and **windows internals**.  
-writing to consolidate, to teach, and to leave something behind in the wired.
+currently deep-diving into **windows maldev**, **active directory**, and **windows internals**.  
+writing to consolidate, to teach, and to leave something behind for the rest of us.
 
 ---
 
@@ -79,9 +55,9 @@ operator = {
 [+] offensive security & red teaming
 [+] windows internals & kernel-mode research  
 [+] malware development & evasion techniques
-[+] active directory attack paths
+[+] active directory killchains and attacks
 [+] adversary simulation & threat emulation
-[+] OPSEC & tradecraft
+[+] phishing & social engineering
 ```
 
 ---
